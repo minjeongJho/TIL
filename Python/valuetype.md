@@ -23,5 +23,5 @@ a = 1
 ```python
 a = b = 1
 a, b, c = 1, 2, 3
-
+```
 https://wikidocs.net/1066
